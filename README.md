@@ -1,4 +1,4 @@
-1.- download proyect
-2.- Opens a terminal in the project folder
-3.- execute "npm install"
-4.- execute "npm run dev"
+- Download proyect
+- Opens a terminal in the project folder
+- Execute "npm install"
+- Execute "npm run dev"
