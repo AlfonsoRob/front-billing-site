@@ -256,7 +256,7 @@
                 }
             })
 
-            router.push('/clients')
+            setTimeout(() => { router.push('/clients') }, 2000)
 
         }else{
             Swal.close()
